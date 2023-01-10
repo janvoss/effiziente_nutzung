@@ -9,12 +9,10 @@ dplyr
 stringr
 forcats
 owidR
+RColorBrewer
 psych
 knitr
-RColorBrewer
 plotly
-gganimate
-transformr
 eurostat
 stargazer
 wbstats
@@ -24,8 +22,4 @@ ggformula
 mosaicData
 mosaic
 latex2exp
-ggstance
-scales
-ggridges
 ggtext
-patchwork
