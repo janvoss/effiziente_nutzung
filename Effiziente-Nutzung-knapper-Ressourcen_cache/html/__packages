@@ -23,3 +23,7 @@ mosaicData
 mosaic
 latex2exp
 ggtext
+lubridate
+ggstance
+scales
+ggridges

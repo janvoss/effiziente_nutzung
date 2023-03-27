@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.10.15)  16 SEP 2022 13:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2023.1.18)  21 MAR 2023 10:38
 entering extended mode
 **"./Beobachten usw.tex"
 (Beobachten usw.tex
@@ -486,27 +486,31 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 )
 (C:\Users\Jan Voßwinkel\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.s
 ty
-Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
+Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
 \MT@toks=\toks32
+\MT@tempbox=\box67
 \MT@count=\count286
-LaTeX Info: Redefining \textls on input line 790.
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
+LaTeX Info: Redefining \leftprotrusion on input line 1046.
+LaTeX Info: Redefining \rightprotrusion on input line 1056.
+LaTeX Info: Redefining \textls on input line 1234.
 \MT@outer@kern=\dimen192
-LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
+LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
 \MT@listname@count=\count287
 
 (C:\Users\Jan Voßwinkel\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype-p
 dftex.def
-File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 915.
-LaTeX Info: Redefining \lslig on input line 915.
+LaTeX Info: Redefining \lsstyle on input line 900.
+LaTeX Info: Redefining \lslig on input line 900.
 \MT@outer@space=\skip49
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
 (C:\Users\Jan Voßwinkel\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.c
 fg
-File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
+File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
 ))
 (C:\Users\Jan Voßwinkel\AppData\Roaming\MiKTeX\tex/latex/smartdiagram\smartdia
 gramlibraryadditions.code.tex
@@ -532,7 +536,7 @@ rydecorations.code.tex
 \pgfdecorationsegmentamplitude=\dimen198
 \pgfdecorationsegmentlength=\dimen199
 )
-\tikz@lib@dec@box=\box67
+\tikz@lib@dec@box=\box68
 )
 (C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecora
 tions.pathreplacing.code.tex))
@@ -562,7 +566,7 @@ LaTeX Font Info:    ... okay on input line 23.
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count289
 \scratchdimen=\dimen256
-\scratchbox=\box68
+\scratchbox=\box69
 \nofMPsegments=\count290
 \nofMParguments=\count291
 \everyMPshowfont=\toks33
@@ -580,6 +584,10 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Info: Redefining \microtypecontext on input line 23.
+Package microtype Info: Applying patch `item' on input line 23.
+Package microtype Info: Applying patch `toc' on input line 23.
+Package microtype Info: Applying patch `eqnum' on input line 23.
+Package microtype Info: Applying patch `footnote' on input line 23.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -599,18 +607,18 @@ Package microtype Info: Loading generic protrusion settings for font family
 {C:/Users/Jan Voßwinkel/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (Beoba
 chten usw.aux) ) 
 Here is how much of TeX's memory you used:
- 17273 strings out of 479001
- 360277 string characters out of 2863270
- 697811 words of memory out of 3000000
- 34726 multiletter control sequences out of 15000+600000
+ 17436 strings out of 479001
+ 363104 string characters out of 2863271
+ 706873 words of memory out of 3000000
+ 34889 multiletter control sequences out of 15000+600000
  413265 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,7n,122p,467b,690s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 117i,7n,122p,1015b,697s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Progr
 am Files/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX/fonts
 /type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmss
 bx10.pfb>
-Output written on "Beobachten usw.pdf" (1 page, 80169 bytes).
+Output written on "Beobachten usw.pdf" (1 page, 80195 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
